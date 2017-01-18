@@ -129,6 +129,7 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 | 11 | 12/12 | [Decision Trees and Random Forests](lessons/lesson-11) |[Unit Project 3](projects/unit-projects/project-3)|
 | 12 | 12/14 | [Natural Language Processing](lessons/lesson-12) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 13 | 12/19 | [Latent Variables and NLP](lessons/lesson-13) | |
+<<<<<<< HEAD
 | 14 | 12/21 | Market Segmentation |[Final Project 2](projects/final-projects/02-experiment-writeup)|
 | 15 | 1/4 | Introduction to Time Series |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
 | 16 | 1/9 | Introduction to Natural Language Processing | |
@@ -137,3 +138,12 @@ All will be held in the student center at GA, 225 Bush Street, SF.
 | 19 | 1/18 | Final Project Presentations | |
 | 20 | 1/23 | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
 >>>>>>> eec7428ac18686964ede8833d45545b295aee576
+=======
+| 14 | 12/21 | [Intro to Time Series Analysis](lessons/lesson-14) |[Final Project 2](projects/final-projects/02-experiment-writeup)|
+| 15 | 1/4 | [Time Series Modeling](lessons/lesson-15) |[Final Project 3](projects/final-projects/03-exploratory-analysis)|
+| 16 | 1/9 | [Intro to Databases](lessons/lesson-16) | |
+| 17 | 1/11 | [Advancing in Data Science](lessons/lesson-17) | [Unit Project 4](projects/unit-projects/project-4) |
+| 18 | 1/18 | Wrapping Up and Next Steps | [Final Project 4](projects/final-projects/04-notebook-rough-draft)|
+| 19 | 1/23 | Final Project Presentations | |
+| 20 | 1/25 | Final Project Presentations, Part 2 |[Final Project 5](projects/final-projects/05-presentation)|
+>>>>>>> 44eb2a8aed9d0208ba21f77b38aebba57a93f78c
